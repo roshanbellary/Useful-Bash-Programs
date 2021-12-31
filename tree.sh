@@ -4,7 +4,7 @@
 
 # Description:A useful bash program that does what the Windows tree command does - prints out the enclosed directories and files within your current directory in a tree format
 
-# Input: None
+# Input: (Optional -a parameter to include hidden files in the tree format)
 
 # Output: A formatted list of all files and directories that include your current directory in their absolute paths
 
