@@ -79,7 +79,7 @@ rec2 () {
 tree(){
 	pwd
 	param=$1
-	if [[ $param -eq "-a" ]]; then
+	if [[ $param = "-a" ]]; then
 		rec2 3
 	else
 		rec 3
