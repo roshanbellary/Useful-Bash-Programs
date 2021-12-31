@@ -13,6 +13,6 @@
     3. Output: standard output from executed program and also errors if program fails to execute
 3. Tree
     1. Description: A useful bash program that does what the Windows tree command does - prints out the enclosed directories and files within your current directory in a tree format
-    2. Input: None
+    2. Input: (Optional -a parameter to include hidden files in the tree format)
     3. Output: A formatted list of all files and directories that include your current directory in their absolute paths
 
